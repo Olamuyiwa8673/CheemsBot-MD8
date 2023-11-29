@@ -29,13 +29,13 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "nigeria, nigeria, lagos" //ur location
 
 //new
-global.botname = "*LEL CRUISERS BOT🤪📚🔞"
+global.botname = "𝐋𝐄𝐋 𝐂𝐑𝐔𝐈𝐒𝐄𝐑𝐒 𝐁𝐎𝐓🤪📚🔞"
 global.ownernumber = '2349156305896'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownername = ' 😎𝑩𝑼𝑴𝑩𝑼𝑴😎'
 global.ownerNumber = ["2349156305896@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/GDBcq9IgMWZLczdPpBmHz2"
+global.wagc = "https://wa.me/message/NLETIGQZX4YHB1"
 global.themeemoji = '🤪'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
